@@ -3,6 +3,7 @@ Space to host cool bits of work I've done
 ## Things in this Repo
 
 ### Capstone Notebook
+[PDF](https://github.com/DanielCairns/portfolio/blob/99c26d0408b09fd4458a297255794b639f91f82d/capstone_project.pdf)
 Jupyter Notebook containing my code and analysis running my neural network model to predict Antarctic climate as part of my master's capstone project. This was the initial "proof of concept" workbook I presented to our capstone partner on May 22 2023.
 
 ## Links Elsewhere
