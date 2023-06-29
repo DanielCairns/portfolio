@@ -11,7 +11,7 @@ Jupyter Notebook containing my code and analysis running my neural network model
 [📝 Final Report](https://github.com/SLIPP-isotopes/MDS_Antarctica_Showcase/blob/main/docs/final_report/final_report.pdf)  
 [📓 Demo Notebook - Training Neural Network models](https://github.com/SLIPP-isotopes/MDS_Antarctica_Showcase/blob/main/notebooks/nn_workflow_demo.ipynb)
 
-Work related to my capstone project I completed in May and June 2023 alongside teammates Jakob Thoms and Shirley Zhang as part of my Master of Data Science degree at the University of British Columbia.
+Work related to my capstone project I completed in May and June 2023 alongside teammates [Jakob Thoms](https://github.com/J99thoms) and [Shirley Zhang](https://github.com/shlrley) as part of my Master of Data Science degree at the University of British Columbia.
 
 ### Fantasy Hockey Goalies Shiny App
 [🗃️ Github Repo](https://github.com/DanielCairns/fantasy_hockey_goalies)  
