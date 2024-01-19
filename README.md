@@ -30,7 +30,7 @@ Work related to my capstone project I completed in May and June 2023 alongside t
 [🗃️ Github Repo](https://github.com/DanielCairns/fantasy_hockey_goalies)  
 [📊 Live App](https://fantasy-hockey-goalies.onrender.com/)
 
-Interactive dashboard I built for course DSCI 532 - Data Visualization II. It's designed to help me anticipate the distribution of fantasy points a goalie in my fantasy hockey league might score given their team and/or the team their facing.
+Interactive dashboard I built for course DSCI 532 - Data Visualization II. It's designed to help me anticipate the distribution of fantasy points a goalie in my fantasy hockey league might score given their team and/or their opponent.
 
 ## Presentations
 
