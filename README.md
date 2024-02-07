@@ -3,11 +3,13 @@
 ### EPL Portfolio
 *Samples of my analytics and visualization work done with the Edmonton Public Library.*  
 
-[📝 Item Movement and In-Branch Collection Size](https://github.com/DanielCairns/portfolio/blob/main/EPL%20Item%20Movement%20and%20In-Branch%20Collection%20Size.pdf)  
+[📊 Item Movement and In-Branch Collection Size](https://github.com/DanielCairns/portfolio/blob/main/EPL%20Item%20Movement%20and%20In-Branch%20Collection%20Size.pdf)  
 Thorough analysis of item movement and collection size across the EPL system. This analysis informed where items pooled, how frequently each collection moved, what percentage of each collection is in the library (vs. checked out, missing, or in-transit), and how much total item capacity we need to hold the current collection.  
 
-[📊 Computer Usage](https://github.com/DanielCairns/portfolio/blob/main/station_demand_Mill%20Woods_0.98-peak.png)  
-Recommended number of public workstations by library based on peak daily usage. Notice how the Mill Woods library has 43 total computers but never uses them all, so the algorithm suggested we reduce the workstation count to 32.  
+[📝 Computer Usage Report](https://github.com/DanielCairns/portfolio/blob/main/RIV%20Computer%20Requirements%20Oct%202023.pdf)  
+My report recommending how many public workstations are required in the Riverbend library, based on overall and peak usage in the previous 12 months.
+
+Below is an example of the analysis which generated the recommendations. Notice how the Mill Woods library has 43 total computers but the peak concurrent users each day tops out at 36, so my algorithm suggested we reduce the workstation count to 32.  
 <img src="https://github.com/DanielCairns/portfolio/blob/main/station_demand_Mill%20Woods_0.98-peak.png" width="600" />
 
 
